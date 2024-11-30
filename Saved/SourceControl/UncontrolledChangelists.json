@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/omers/Desktop/Unreal Games/FirstPersonTemplate/Content/FirstPerson/Blueprints/BP_Target.uasset",
+				"C:/Users/omers/Desktop/Unreal Games/FirstPersonTemplate/Content/FirstPerson/Blueprints/BP_TargetGame.uasset",
+				"C:/Users/omers/Desktop/Unreal Games/FirstPersonTemplate/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"C:/Users/omers/Desktop/Unreal Games/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/JR/GZLCWN36TMPI7PYEZQ33IV.uasset",
+				"C:/Users/omers/Desktop/Unreal Games/FirstPersonTemplate/Content/FirstPerson/Blueprints/GM_TargetGame.uasset",
+				"C:/Users/omers/Desktop/Unreal Games/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/Y1/T8F603PE9ECBBR9N08QIO4.uasset",
+				"C:/Users/omers/Desktop/Unreal Games/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/O3/3RV2S3NDXTXSP50FI8XB77.uasset",
+				"C:/Users/omers/Desktop/Unreal Games/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/MD/8M7MSYJWD3TETIAD37LD2E.uasset",
+				"C:/Users/omers/Desktop/Unreal Games/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/WB/V4ALNTJYOVWM8BU452CKV5.uasset",
+				"C:/Users/omers/Desktop/Unreal Games/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset",
+				"C:/Users/omers/Desktop/Unreal Games/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/VO/VMN4G7K3NKKV6F8HTPHHDB.uasset",
+				"C:/Users/omers/Desktop/Unreal Games/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/0Z/5RQIHCZ9W3UXRGL4LTLQAK.uasset",
+				"C:/Users/omers/Desktop/Unreal Games/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/GO/I8WEFD3RY9V3NVQLSU6QM4.uasset"
+			]
+		}
+	]
+}
